@@ -5,6 +5,9 @@ You must NOT change the function definitions (names, arguments).
 
 You can run the functions you define in this file by using test.py (python test.py)
 Please do not add any additional code underneath these functions.
+
+Name: Joshua Momcilovic
+Student Number: 201876926
 """
 
 import sqlite3
